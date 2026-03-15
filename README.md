@@ -7,3 +7,9 @@
 
 ## Sistema escolhido
 Opção C - Um jogo online simples (onde você tem itens e moedas).
+
+<br><br>
+
+#### Tabalho da faculdade de ADS na universidade Unifaat-Atibaia/SP
+
+#### Matéria - Arquitetura de Solução
